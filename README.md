@@ -5,7 +5,7 @@
   
   <br><br>
   
-  <a href="https://www.linkedin.com/in/joaquin-mansilla-miranda-170924333">
+  <a href="https://www.linkedin.com/in/jmansilla-data">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </div>
