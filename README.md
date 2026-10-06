@@ -40,8 +40,8 @@ My core expertise lies in building serverless cloud architectures (AWS) and tran
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Dracosk/betool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dracosk&repo=betool&theme=transparent&hide_border=true&title_color=2496ED&text_color=A6A6A6&icon_color=2496ED&bg_color=00000000" alt="Betool Repository" />
+  <a href="https://github.com/Dracosk/BETOOL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dracosk&repo=BETOOL&theme=transparent&hide_border=true&title_color=2496ED&text_color=A6A6A6&icon_color=2496ED&bg_color=00000000&v=1" alt="Betool Repository" />
   </a>
 </div>
 
