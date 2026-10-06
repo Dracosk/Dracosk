@@ -1,12 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2496ED&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Joaquin+Mansilla;Data+Engineer+%7C+MLOps+%7C+Cloud+Architect" alt="Typing SVG" />
-</div>
-
-<div align="center">
+  <h1>Hi there, I'm Joaquin Mansilla </h1>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+MLOps+%7C+Cloud+Architect" alt="Typing SVG" />
+  
+  <br><br>
+  
   <a href="https://www.linkedin.com/in/joaquin-mansilla-miranda-170924333">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </div>
+
+<br>
 
 ## About Me
 
